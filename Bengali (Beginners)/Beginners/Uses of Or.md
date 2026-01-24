@@ -1,7 +1,7 @@
 Unlike English, you cannot use the same word for 'or' in **Assertive** and **Interrogative** sentences in Bengali.
 
 ---
-# Uses of Or
+
 ## in Affirmative Sentence
 Options:
 - অথবা (**safest** for **affirmative** sentences)
@@ -39,3 +39,8 @@ Options:
 | চা না কফি?                  | Tea or coffee?                     |
 | তুমি কি খুশি? নাকি অভিনয়?   | Are you happy, or just pretending? |
 | তুমি কি যাবে, না যাবে না?   | Will you go or not?                |
+
+
+Coming up:
+- [[Uses of 'either ... or', 'neither ... nor']]
+- 
