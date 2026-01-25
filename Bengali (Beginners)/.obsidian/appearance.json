@@ -1,5 +1,5 @@
 {
-  "textFontFamily": "Noto Sans Bengali,Roboto,July,Ubuntu",
-  "interfaceFontFamily": "Ubuntu,Noto Sans Bengali",
+  "textFontFamily": "Noto Sans Bengali,Roboto,July,Ubuntu,Arial",
+  "interfaceFontFamily": "Ubuntu,Noto Sans Bengali,Arial",
   "cssTheme": "Simply Colorful"
 }
