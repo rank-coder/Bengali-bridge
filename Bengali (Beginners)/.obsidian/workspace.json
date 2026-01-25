@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6b9d56c4bf13e5",
+        "id": "8dbad365da698239",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5ac812360db3e7",
+            "id": "25e802c5e17510a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4afd56bb8d647f7",
@@ -176,11 +177,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed5ac812360db3e7",
+  "active": "25e802c5e17510a8",
   "lastOpenFiles": [
+    "Beginners/Uses of Or.md",
     "Welcome.md",
     "create a link.md",
-    "Beginners/Uses of Or.md",
     "Beginners"
   ]
 }

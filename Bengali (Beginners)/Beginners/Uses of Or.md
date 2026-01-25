@@ -28,7 +28,7 @@ Options:
 | এতে আমাদের চিনি কিংবা লবণ লাগবে না।   | We don't need sugar or salt for this. |
 | সে আমায় কল বা মেসেজ করেনি (করে নাই)।  | She didn't call or message me.        |
 ## in Interrogative Sentences
-- NEVER use *অথবা* 
+- **NEVER** use *অথবা* 
 - use *না* or *নাকি* instead
 
 | বাংলা                       | English                            |
