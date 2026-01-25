@@ -22,8 +22,10 @@ To get the most out of the interlinked notes and visual structure, we recommend 
 4. **Start Learning**: Open the `Welcome` note or browse the folders to begin!
 
 ---
-### ⭐ Show your Support
-If you find this resource helpful, please give it a **Star**! It helps others find this bridge and keeps the project growing. 🚀
+### ⭐ Support the Project
+If you find this resource helpful, please **star it on GitHub!** 🌟
+
+Click the **Star** button at the top right of this page to show your support. It helps more learners find this bridge and keeps the project growing! 🚀
 
 ## 🗺️ Roadmap
 We are committed to making this a comprehensive resource:
