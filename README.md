@@ -8,7 +8,12 @@ A structured learning bridge for non-native, English-speaking learners of Bengal
 This repository is an **[Obsidian](https://obsidian.md/)** vault designed to provide a seamless, interlinked learning experience. It currently hosts **structured beginner-level resources** to help you build a strong foundation in Bengali.
 
 > [!TIP]
-> While optimized for Obsidian, these are standard Markdown files. You can use **any markdown viewer** or even simple text editors to read the content!
+> While optimized for [Obsidian](https://obsidian.md/), these are standard Markdown files. You can use **any markdown viewer** or even simple text editors to read the content!
+
+### ⭐ Support the Project
+If you find this resource helpful, please **star it on GitHub!** 🌟
+
+Click the **Star** button at the top right of this page to show your support. It helps more learners find this bridge and keeps the project growing! 🚀
 
 ## 🚀 How to Use This Resource
 To get the most out of the interlinked notes and visual structure, we recommend using it with [Obsidian](https://obsidian.md/).
@@ -22,10 +27,6 @@ To get the most out of the interlinked notes and visual structure, we recommend 
 4. **Start Learning**: Open the `Welcome` note or browse the folders to begin!
 
 ---
-### ⭐ Support the Project
-If you find this resource helpful, please **star it on GitHub!** 🌟
-
-Click the **Star** button at the top right of this page to show your support. It helps more learners find this bridge and keeps the project growing! 🚀
 
 ## 🗺️ Roadmap
 We are committed to making this a comprehensive resource:
