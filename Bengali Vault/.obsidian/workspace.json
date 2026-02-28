@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8dbad365da698239",
+        "id": "c695e11572fbb3a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba40aebf2ce36bc",
+            "id": "0a5e9c927f8844f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "de8c84b4b961af61",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Beginners/Use of articles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use of articles"
             }
           }
         ]
@@ -186,10 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ba40aebf2ce36bc",
+  "active": "0a5e9c927f8844f8",
   "lastOpenFiles": [
-    "Beginners/Use of articles (টি, গুলি).md",
-    "Counter.md",
+    "Beginners/Counter.md",
+    "Beginners/Use of articles.md",
     "Beginners/Use of Or.md",
     "Whiteboard.md",
     "Welcome.md",
