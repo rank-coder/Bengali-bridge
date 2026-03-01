@@ -1,8 +1,14 @@
+---
+aliases:
+  - article
+---
+
 # পদাশ্রিত নি‍র্দেশক (Articles)
 ## Definite Article (Singular & Plural)
 - বইটি আমার। {boiṭi amar} [The book is mine] (*1 count*)
 - বইগুলো আমার। {boigulo amar} [The books are mine] (*more than 1, but the number is unknown*)
 - ঐ কলমটি তোমার। {oi kölomṭi tomar.} [That pen is yours.]
+- 
 - ওটা তোমার কলম। {oṭa tomar kölom.} [That is your pen.]
 
 > [!NOTE]
