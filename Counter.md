@@ -1,3 +1,4 @@
+#Intermediate 
 # Counters in General (sneak peak)
 ## For humans --
 - দুইজন মানুষ। {duijon manush} [Two people]
@@ -5,7 +6,6 @@
 
 > [!NOTE]
 > Note that there is no plural form for the nouns. Counters are enough to make the noun plural.
-
 ### Definite with Counters
 - সেই দুইজন মানুষ। {shei duijon manush} [The two people]
 - এই দুইজন মানুষ। {ei duijon manush} [These two people]

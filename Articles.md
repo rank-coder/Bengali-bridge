@@ -2,6 +2,7 @@
 aliases:
   - article
 ---
+#Beginner #Intermediate
 
 # পদাশ্রিত নি‍র্দেশক (Articles)
 ## Definite Article (Singular & Plural)

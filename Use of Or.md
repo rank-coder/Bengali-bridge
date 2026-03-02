@@ -1,3 +1,5 @@
+#Beginner #Intermediate 
+
 Unlike English, you cannot use the same word for 'or' in **Assertive** and **Interrogative** sentences in Bengali.
 
 ---
