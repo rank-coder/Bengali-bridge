@@ -14,16 +14,20 @@ Quick review: A **personal pronoun** is a [[pronoun]] that refers to a specific 
 | 3rd    | Plural   |  tara [They] |         tader [Their] |     tader [Theirs] |  taderke [Them] |
 
 
-> [!NOTE] /r/ ending
+> [!NOTE] 
+> /r/ ending:  
 > Note that, possessive form ends with /r/
 
-> [!NOTE] /ke/ ending
+> [!NOTE] 
+> /ke/ ending:  
 > Note that, object form ends with /ke/
 
-> [!NOTE] /der/ ending
+> [!NOTE] 
+> /der/ ending:  
 > plural possessive form ends with /der/
 
-> [!NOTE] /der ke/ ending
+> [!NOTE] 
+> /der ke/ ending:  
 > Plural object form ends with /derke/
 
 > [!NOTE] 
