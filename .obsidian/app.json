@@ -1,5 +1,5 @@
 {
   "spellcheck": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showLineNumber": false
 }

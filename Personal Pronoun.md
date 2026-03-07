@@ -13,24 +13,26 @@ Quick review: A **personal pronoun** is a [[pronoun]] that refers to a specific 
 | 3rd    | Singular | she [He/She] |         tar [His/Her] |     tar [His/Hers] |  take [Him/Her] |
 | 3rd    | Plural   |  tara [They] |         tader [Their] |     tader [Theirs] |  taderke [Them] |
 
+> [!NOTE] 
+> /ra/ ending usually marks plural for the subject
+ 
+> [!NOTE] 
+> You must have noticed that, in Bengali, *possessive determiner* form and *possessive pronoun* form look exactly the same.
 
 > [!NOTE] 
 > /r/ ending:  
-> Note that, possessive form ends with /r/
-
-> [!NOTE] 
-> /ke/ ending:  
-> Note that, object form ends with /ke/
+> Note that, singular possessive form ends with /r/
 
 > [!NOTE] 
 > /der/ ending:  
 > plural possessive form ends with /der/
 
 > [!NOTE] 
-> /der ke/ ending:  
-> Plural object form ends with /derke/
+> /ke/ ending:  
+> Note that, object form ends with /ke/
 
 > [!NOTE] 
-> In Bengali, *possessive determiner* and *possessive pronoun* look exactly the same.
+> /der ke/ ending:  
+> Plural object form ends with /derke/
 
 # Personal Pronoun : Level 2
