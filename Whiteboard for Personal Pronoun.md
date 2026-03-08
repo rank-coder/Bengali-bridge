@@ -1,8 +1,9 @@
 Whiteboard for [[Personal Pronoun]]
-### 1st person singular subject
+# Subject Pronouns
+## 1st person singular subject
 ami onupöm. [I am Onupom.]
 ami jani. [I know.]
-##### S + O + V 
+>  S + O + V 
 ami bhat khai. [I eat rice.]
 
 #### 1st Person Plural Number Subject

@@ -1,5 +1,6 @@
 {
   "spellcheck": false,
   "readableLineLength": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }

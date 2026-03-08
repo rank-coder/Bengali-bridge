@@ -1,8 +1,6 @@
-
 #Absolute_Beginner
-
 Quick review: A **personal pronoun** is a [[pronoun]] that refers to a specific person or thing and *changes form* according to **person**, **number**, and **case**.
-
+# Lvl 1
 
 | Person | Number   |      Subject | Possessive Determiner | Possessive Pronoun |          Object |
 | ------ | -------- | -----------: | --------------------: | -----------------: | --------------: |
@@ -35,4 +33,5 @@ Quick review: A **personal pronoun** is a [[pronoun]] that refers to a specific 
 > /der ke/ ending:  
 > Plural object form ends with /derke/
 
+See also: [[Whiteboard for Personal Pronoun Lvl1]]
 # Personal Pronoun : Level 2

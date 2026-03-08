@@ -1,6 +1,7 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "textFontFamily": "Geetanjali Academic,Cantarell",
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Noto Serif,Geetanjali Academic",
   "interfaceFontFamily": "",
-  "baseFontSize": 30
+  "baseFontSize": 30,
+  "nativeMenus": true
 }
