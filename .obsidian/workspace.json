@@ -6,7 +6,7 @@
       {
         "id": "aa1f1709a3ecdc1a",
         "type": "tabs",
-        "dimension": 62.48618784530387,
+        "dimension": 57.95031055900621,
         "children": [
           {
             "id": "7d11aa1bdd79f4ef",
@@ -27,7 +27,7 @@
       {
         "id": "ef966f7827767f75",
         "type": "tabs",
-        "dimension": 37.51381215469613,
+        "dimension": 42.04968944099379,
         "children": [
           {
             "id": "585d92cc49bfb42f",
@@ -41,20 +41,6 @@
               },
               "icon": "lucide-file",
               "title": "Whiteboard for Personal Pronoun Lvl1"
-            }
-          },
-          {
-            "id": "6ec9ac091f1df884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Pronoun.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Personal Pronoun"
             }
           }
         ]
@@ -114,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "10765a942c73ddeb",
@@ -223,8 +208,8 @@
   "active": "585d92cc49bfb42f",
   "lastOpenFiles": [
     "Personal Pronoun.md",
-    "Whiteboard for Personal Pronoun Lvl1.md",
     "Whiteboard for Personal Pronoun.md",
+    "Whiteboard for Personal Pronoun Lvl1.md",
     "Counter.md",
     "Articles.md",
     "README.md",
