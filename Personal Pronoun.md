@@ -34,9 +34,24 @@ Quick review: A **personal pronoun** is a [[pronoun]] that refers to a specific 
 > Plural object form ends with /derke/
 
 See also: [[Whiteboard for Personal Pronoun Lvl1]]
-# Personal Pronoun : Level 2
+# Personal Pronouns : Level 2
+
+| Person | Hon. Lvl. | Subject       | Pos. Det.      | Pos. Pro.       | Object          |
+| ------ | --------- | ------------- | -------------- | --------------- | --------------- |
+| 2nd    | neutral   | tumi          | tomar          | tomar           | tomake          |
+| 2nd    | low       | tui           | tor            | tor             | toke            |
+| 2nd    | high      | apni [You]    | apnar [Your]   | apnar [Your]    | apnake [You]    |
+| 3rd    | neutral   | she           | tar            | tar             | take            |
+| 3rd    | low       | -             | -              | -               | -               |
+| 3rd    | high      | tini [He/She] | tãr [His/Her] | tãr [His/Hers] | tãke [Him/Her] |
+
+> [!NOTE] 
+> Hon. Lvl. = *Honorific Levels*
+> Pos. Det. = *Possessive Determiners*
+> Pos. Pro. = *Possessive Pronouns*
+
+> [!NOTE]
+> **No honorific levels** exist for the **1st person**. Since these are actually *levels of address*, and one cannot address oneself.
 
 
-
-
-See also: [[Whiteboard for Personal Pronoun Lvl2]]
+See also: [[Whiteboard for Personal Pronouns_ Lvl2]]

@@ -6,7 +6,7 @@ Whiteboard for [[Personal Pronoun]] Level 1
  > S + O + V (Default Sentence Structure)
 3. ami bhat khai. [I eat rice.]
 ## 1st Person Plural Subject
-ami + ra = *amra*
+ ami + ra = *amra*
 1. amra chattro. [We are students.]
 2. amra jani. [We know]
 3. amra bhat khai. [We eat rice.]
@@ -78,3 +78,4 @@ she + ke = *take* [Him/Her]
 ## 3rd Person Plural Object
 she + der + ke = *taderke* [Them]
 1. amra taderke cini na. [We don't know them.]
+ 
