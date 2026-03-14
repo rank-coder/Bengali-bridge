@@ -54,4 +54,9 @@ See also: [[Whiteboard for Personal Pronoun Lvl1]]
 > **No honorific levels** exist for the **1st person**. Since these are actually *levels of address*, and one cannot address oneself.
 
 
+> [!NOTE]
+> There is no low level honorific for **3rd person** pronouns.
+
+****
 See also: [[Whiteboard for Personal Pronouns_ Lvl2]]
+See also: [[Homework for Personal Pronouns_Lvl1&2]]
