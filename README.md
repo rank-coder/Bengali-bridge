@@ -36,6 +36,7 @@ We are committed to making this a comprehensive resource:
 
 ## 🤝 Contribute
 Interested in helping other learners? We welcome contributions! Whether it's fixing a typo, adding a new lesson, or suggesting improvements, feel free to open a Pull Request or create an Issue.
+Join "Learn Bengali বাংলা শিখি" discord server.
 
 ---
 
