@@ -11,10 +11,14 @@
             "id": "32123744c115a3b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "beginner_stuffs/Personal_pronoun+_Honorifics/Personal Pronoun.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Personal Pronoun"
             }
           }
         ]
@@ -181,10 +185,20 @@
   },
   "active": "32123744c115a3b8",
   "lastOpenFiles": [
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3155421w7kgr.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3155421w7kgn.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3hw.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3hs.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3hi.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3he.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3fe.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3fa.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3f8.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3f4.tmp",
+    "beginner_stuffs/Personal_pronoun+_Honorifics/lu3047811vg3ea.tmp",
     "beginner_stuffs/Use of Or.md",
     "beginner_stuffs/Counter.md",
     "beginner_stuffs/Articles.md",
-    "word_tables/Verbs_Conjugations_for_20_Verb_Families_in_Bengali.pdf",
     "beginner_stuffs/Personal_pronoun+_Honorifics/Homework for Personal Pronouns_Lvl1&2.md",
     "beginner_stuffs/Personal_pronoun+_Honorifics/Whiteboard for Personal Pronoun Lvl1.md",
     "beginner_stuffs/Personal_pronoun+_Honorifics/Personal Pronoun.md",
