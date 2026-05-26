@@ -11,7 +11,8 @@ This repository is an **[Obsidian](https://obsidian.md/)** vault designed to pro
 > While optimized for [Obsidian](https://obsidian.md/), these are standard Markdown files. You can use **any markdown viewer** or even simple text editors to read the content!
 
 ### ⭐ Support the Project
-If you find this resource helpful, please **star it on GitHub!** 🌟
+> [!TIP]
+> If you find this resource helpful, please **star it on GitHub!** 🌟
 
 Click the **Star** button at the top right of this page to show your support. It helps more learners find this bridge and keeps the project growing! 🚀
 
