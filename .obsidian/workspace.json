@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0e784a5e299ffb9",
+        "id": "037e2111a7beae0a",
         "type": "tabs",
         "children": [
           {
-            "id": "879b4db95795ad67",
+            "id": "32123744c115a3b8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,13 +179,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "879b4db95795ad67",
+  "active": "32123744c115a3b8",
   "lastOpenFiles": [
+    "beginner_stuffs/Use of Or.md",
+    "beginner_stuffs/Counter.md",
+    "beginner_stuffs/Articles.md",
     "word_tables/Verbs_Conjugations_for_20_Verb_Families_in_Bengali.pdf",
     "beginner_stuffs/Personal_pronoun+_Honorifics/Homework for Personal Pronouns_Lvl1&2.md",
     "beginner_stuffs/Personal_pronoun+_Honorifics/Whiteboard for Personal Pronoun Lvl1.md",
     "beginner_stuffs/Personal_pronoun+_Honorifics/Personal Pronoun.md",
-    "beginner_stuffs/Articles.md",
     "beginner_stuffs/Personal_pronoun+_Honorifics/Whiteboard for Personal Pronouns_ Lvl2.md",
     "beginner_stuffs/Personal_pronoun+_Honorifics/Excercise on Honorifics.md",
     "Whiteboard for Personal Pronouns_ Lvl2.md",
