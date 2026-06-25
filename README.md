@@ -5,10 +5,10 @@ A structured learning bridge for non-native, English-speaking learners of Bengal
 
 
 ## 🏔️ What is This?
-This repository is an **[Obsidian](https://obsidian.md/)** vault designed to provide a seamless, interlinked learning experience. It currently hosts **structured beginner-level resources** to help you build a strong foundation in Bengali.
+This repository contains **Bengali learning resources in `.docx` format**, with **PDF copies included** for easy reading. The files were converted from markdown and are now ready to use with standard document tools.
 
 > [!TIP]
-> While optimized for [Obsidian](https://obsidian.md/), these are standard Markdown files. You can use **any markdown viewer** or even simple text editors to read the content!
+> Use any PDF viewer to read the content, or open the `.docx` files with Microsoft Word, LibreOffice Writer, Google Docs, or another Word-compatible editor to edit them.
 
 ### ⭐ Support the Project
 > [!TIP]
@@ -17,15 +17,12 @@ This repository is an **[Obsidian](https://obsidian.md/)** vault designed to pro
 Click the **Star** button at the top right of this page to show your support. It helps more learners find this bridge and keeps the project growing! 🚀
 
 ## 🚀 How to Use This Resource
-To get the most out of the interlinked notes and visual structure, we recommend using it with [Obsidian](https://obsidian.md/).
-
-1. **Download the Vault**: Click the green **Code** button at the top of this page and select **Download ZIP**.
+1. **Download the repository**: Click the green **Code** button at the top of this page and select **Download ZIP**.
 2. **Extract**: Unzip the downloaded folder on your computer.
-3. **Open in Obsidian**:
-   - Install and open [Obsidian](https://obsidian.md/).
-   - Click on "Open folder as vault".
-   - Select the extracted folder (`Bengali-bridge`).
-4. **Start Learning**: Open the `Welcome` note or browse the folders to begin!
+3. **Open the files**:
+   - Use any **PDF viewer** to read the PDF copies.
+   - Use **Microsoft Word**, **LibreOffice Writer**, **Google Docs**, or another Word-compatible editor to open and edit the `.docx` files.
+4. **Start Learning**: Browse the folders and open the lessons that match your level.
 
 ---
 
