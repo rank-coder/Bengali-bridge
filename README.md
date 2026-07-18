@@ -5,10 +5,10 @@ A structured learning bridge for non-native, English-speaking learners of Bengal
 
 
 ## 🏔️ What is This?
-This repository contains **Bengali learning resources in `.docx` format**, with **PDF copies included** for easy reading. The files were converted from markdown and are now ready to use with standard document tools.
+This repository contains **Bengali learning resources in `.odt` format**, with **PDF copies included** for easy reading. The files are ready to use with standard document tools.
 
 > [!TIP]
-> Use any PDF viewer to read the content, or open the `.docx` files with Microsoft Word, LibreOffice Writer, Google Docs, or another Word-compatible editor to edit them.
+> Use any PDF viewer to read the content, or open the `.odt` files with LibreOffice Writer, Microsoft Word, Google Docs, or another ODF-compatible editor to edit them.
 
 ### ⭐ Support the Project
 > [!TIP]
@@ -21,7 +21,7 @@ Click the **Star** button at the top right of this page to show your support. It
 2. **Extract**: Unzip the downloaded folder on your computer.
 3. **Open the files**:
    - Use any **PDF viewer** to read the PDF copies.
-   - Use **Microsoft Word**, **LibreOffice Writer**, **Google Docs**, or another Word-compatible editor to open and edit the `.docx` files.
+   - Use **LibreOffice Writer**, **Microsoft Word**, **Google Docs**, or another ODF-compatible editor to open and edit the `.odt` files.
 4. **Start Learning**: Browse the folders and open the lessons that match your level.
 
 ---
